@@ -8,6 +8,7 @@ public class HelloWorld {
 		if(a==1)
 			System.out.println("This is Sparta!!!");
 		System.out.println("Are you sure?");
+		System.out.println("no");
 	}
 
 }
